@@ -11,7 +11,7 @@ function callMe() {
 
 function crazy() {
   // fix the code in here:
-  console.log("hey!!!");
+  
   thisIsCrazy();
 
   var thisIsCrazy = function (){
@@ -21,6 +21,7 @@ function crazy() {
 
 function sayMyName() {
   // fix the code in here:
+  name = "Kristin";
   var name = "Cricky";
 
   sayMy();
