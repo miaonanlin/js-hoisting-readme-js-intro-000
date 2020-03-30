@@ -15,19 +15,15 @@ function crazy() {
   thisIsCrazy();
 
   var thisIsCrazy = function (){
-    var thisIsCrazy = function{
     console.log("hey!!!");
   }
-  thisIsCrazy();
-}
+}  
 
 
 
 function sayMyName() {
   // fix the code in here:
-  var name;
-  name = "Cricky";
-
+  
   sayMy();
 
   function sayMy() {
