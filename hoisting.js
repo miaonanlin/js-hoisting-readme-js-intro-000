@@ -18,11 +18,12 @@ function crazy() {
     console.log("hey!!!");
   }
 }
+thisIsCrazy();
 
 function sayMyName() {
   // fix the code in here:
-  name = "Kristin";
-  var name = "Cricky";
+  var name;
+  name = "Cricky";
 
   sayMy();
 
